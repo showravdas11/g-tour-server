@@ -1,0 +1,44 @@
+[
+    {
+        "name": "France Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$1,412",
+        "time": "10days"
+    },
+    {
+        "name": "Macao Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$512",
+        "time": "5days"
+    },
+    {
+        "name": "Turkey  Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$412",
+        "time": "3days"
+    },
+    {
+        "name": "Bali Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$512",
+        "time": "5days"
+    },
+    {
+        "name": "Evally Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$2,112",
+        "time": "10days"
+    },
+    {
+        "name": "Southland Experience",
+        "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg",
+        "descliption": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "price": "$900",
+        "time": "7days"
+    }
+]
